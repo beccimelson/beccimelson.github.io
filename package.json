@@ -1,0 +1,10 @@
+{
+  "name": "becci.work",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "\"echo \\\"Eror: no test specified\\\" && exit 1\""
+  },
+  "author": "@beccimelson",
+  "license": "ISC"
+}
