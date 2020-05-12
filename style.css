@@ -90,7 +90,7 @@ a {
 
 .ticker img {
   display: inline-flex;
-  height: 40vh;
+  height: 30vh;
   padding-right: 20vh;
   animation: marquee 15s linear infinite;
 }
