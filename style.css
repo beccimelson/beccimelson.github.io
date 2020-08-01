@@ -204,7 +204,6 @@ body {
 
 .header__link--language a {
     text-decoration: none;
-    color: rgba(0,0,0,.9);
 }
 
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary {
