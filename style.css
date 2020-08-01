@@ -35,6 +35,11 @@
     line-height: 1.4;
 }
 
+.header__link a {
+    text-decoration: none;
+    color: #ff6157;
+}
+
 .header__link--name {
     position: absolute;
     left: 50%;
