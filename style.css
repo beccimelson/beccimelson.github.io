@@ -217,7 +217,7 @@ body {
     margin: 0;
 }
 
-.header__link--language a {
+.header__link--social a {
     text-decoration: none;
     color: rgba(0,0,0,.9);
 }
@@ -680,6 +680,10 @@ pre code:after,pre code:before,pre tt:after,pre tt:before {
     color: rgba(0,0,0,.9);
     opacity: .90;
 }
+
+.company__head a:hover {
+    color: rgb(227, 27, 35);
+ }
 
 .company__body {
     overflow: hidden;
